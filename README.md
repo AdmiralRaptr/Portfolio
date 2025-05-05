@@ -8,6 +8,8 @@ My name is Oliver Vahar and I'm a cybersecurity major at Illinois State Universi
 
 Beginner Experience:
 
-Identifying a website's digital certificate
+Identifying and validating a website's digital certificate.
 
-Metasploit basics
+Using Wireshark to capture and analyze network traffic.
+
+Metasploit basics.
